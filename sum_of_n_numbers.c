@@ -11,6 +11,6 @@ int main()
         scanf("%d",&a);
         sum+=a;
     }
-    printf("\nSum of th %d numbers is %d",count,sum);
+    printf("\nSum of the %d numbers is %d",count,sum);
     return 0;
 }
